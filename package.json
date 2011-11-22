@@ -1,0 +1,9 @@
+{
+  "name": "connect-logger-statsd",
+  "description": "logging statsd middleware for Connect",
+  "version": "0.1.0",
+  "author": "Pete Fritchman <petef@databits.net>",
+  "dependencies": { "node-statsd": ">= 0.0.2" },
+  "main": "./index.js",
+  "engines": { "node": "*" }
+}
