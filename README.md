@@ -30,6 +30,7 @@ And register the middleware:
    - `port`     port of statsd server (default 8125)
    - `prefix`   statsd metric name prefix. include the trailing "."
                 (default "")
+
 ## License
 
 MPL 1.1/GPL 2.0/LGPL 2.1
