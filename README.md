@@ -8,7 +8,7 @@ As of now, we record the request time (as a statsd "timer") and request rates, b
 
 ## Installation
 
-$ npm install connect-logger-statsd
+    $ npm install connect-logger-statsd
 
 ## Usage
 
