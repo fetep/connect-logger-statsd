@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/fetep/connect-logger-statsd.png)](http://travis-ci.org/fetep/connect-logger-statsd)
 # connect-logger-statsd
 connect-logger-statsd is a middleware layer for [Connect](https://github.com/senchalabs/connect) (running on node.js) that sends request log info to [statsd](http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/).
 
